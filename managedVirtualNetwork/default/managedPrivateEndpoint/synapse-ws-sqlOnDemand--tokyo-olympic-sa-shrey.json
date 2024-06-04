@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--tokyo-olympic-sa-shrey",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/e1804955-b9cd-4ca3-8391-5620c900700e/resourceGroups/tokyo-olympic-data/providers/Microsoft.Synapse/workspaces/tokyo-olympic-sa-shrey",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"tokyo-olympic-sa-shrey-ondemand.1057419d-1394-4f27-b45d-5c42250d0507.sql.azuresynapse.net"
+		]
+	}
+}

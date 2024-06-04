@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--tokyo-olympic-sa-shrey-tokyoolympicdata01",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/e1804955-b9cd-4ca3-8391-5620c900700e/resourceGroups/tokyo-olympic-data/providers/Microsoft.Storage/storageAccounts/tokyoolympicdata01",
+		"groupId": "dfs"
+	}
+}
